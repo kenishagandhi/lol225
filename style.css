@@ -1,0 +1,33 @@
+input{
+    margin: 10px;
+
+}
+
+#submiting{
+    margin-top: 20px; 
+    margin-bottom: 20px;
+
+}
+#sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#displaynamewithcommas
+{
+    border: 1px solid pink;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#displaynamewithoutcommas
+{
+    border: 1px solid yellow;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    width: 50%;
+}
